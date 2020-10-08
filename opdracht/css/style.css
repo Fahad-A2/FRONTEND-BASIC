@@ -1,0 +1,186 @@
+body {
+  background-color: #05386b;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1a1a1d;
+  list-style-type: none;
+  top: 0;
+}
+
+#fahad {
+  float: left;
+  display: block;
+  padding: 14px 16px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+  float: right;
+}
+li a {
+  display: block;
+  padding: 14px 16px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.div1 {
+  float: right;
+  width: 50%;
+  margin-top: 10vw;
+  margin-right: 2vw;
+  margin-left: 5vw;
+  align-content: center;
+  align-items: center;
+}
+
+#img1 {
+  width: 90%;
+}
+
+.home1 {
+  color: white;
+  text-align: center;
+  margin-top: 15vw;
+  font-size: 40px;
+}
+
+.ind_h2 {
+  text-align: center;
+}
+
+#ind_a {
+  text-decoration: none;
+  color: blue;
+}
+
+
+
+/** contact.html **/
+
+.contact {
+  border: solid whitesmoke 3px;
+  border-radius: 5px;
+  width: 60%;
+  margin: 3vw;
+  margin-top: 4vw;
+  margin-left: 2vw;
+}
+
+.contacth1 {
+  color: white;
+  margin-left: 2vw;
+  margin-top: 3vw;
+  font-size: 30px;
+}
+
+.contact_labels {
+  float: left;
+  margin-left: 3vw;
+}
+
+label {
+  display: inline-block;
+  color: whitesmoke;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.contact_input {
+  margin-left: 10vw;
+}
+
+input[type="text"],
+[type="email"] {
+  border: 2px solid whitesmoke;
+  background-color: white;
+  padding: 5px;
+  border-radius: 2px;
+  resize: vertical;
+  color: black;
+  margin-left: 4vw;
+  margin-top: 4px;
+}
+
+#bericht {
+  border: 2px solid whitesmoke;
+  background-color: white;
+  padding: 5px;
+  border-radius: 2px;
+  resize: vertical;
+  color: black;
+  margin-left: 4vw;
+  margin-top: 4px;
+}
+
+.contact_submit {
+  margin-top: 4vw;
+  margin-bottom: 1vw;
+  margin-left: 50vw;
+}
+
+input[type="submit"] {
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  font-weight: bold;
+  padding: 14px 20px;
+  background-color: rgba(220, 220, 220, 0);
+  color: white;
+  border-radius: 2px;
+  border: solid whitesmoke 4px;
+}
+
+input[type="submit"]:hover {
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  padding: 14px 20px;
+  background-color: white;
+  color: #293e58;
+  border-radius: 2px;
+}
+
+/** portfolio.html **/
+
+.porth2 {
+  margin-left: 2vw;
+  margin-top: 5vw;
+}
+
+.portinfo {
+  margin-left: 2vw;
+  margin-top: 2vw;
+}
+
+.portfolio {
+  float: right;
+  width: 50%;
+  margin-top: 5vw;
+  margin-right: 2vw;
+  margin-left: 5vw;
+  align-content: center;
+  align-items: center;
+}
+
+#img3 {
+  width: 95%;
+}
+
