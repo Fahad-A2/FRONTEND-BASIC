@@ -158,6 +158,10 @@ input[type="submit"]:hover {
   border-radius: 2px;
 }
 
+textarea {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 /** portfolio.html **/
 
 .porth2 {
